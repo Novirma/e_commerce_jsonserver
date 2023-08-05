@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "user",
+            "lastName": "dev",
+            "email": "userdev@nutech.com",
+            "password": "userdev",
+            "alamat": "tomang jakarta barat"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "komik naruto",
+            "price": 50000,
+            "stock": 100,
+            "img": "komiknaruto.jpg",
+            "description": "ini adalah komik shounen legendaris"
+        }
+    ]
+}
